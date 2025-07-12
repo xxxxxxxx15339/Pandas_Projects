@@ -1,4 +1,4 @@
-# 📝 Pandas Beginner Projects
+# 📝 Pandas Projects
 
 ## 🟢 Project 1: Student Grades Analysis
 
